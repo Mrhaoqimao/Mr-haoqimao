@@ -1,2 +1,4 @@
 # Mr-haoqimao
-only is a repository
+hello fanhao 
+this is my repository 
+take part in me
